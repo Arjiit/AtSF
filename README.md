@@ -41,7 +41,7 @@ Adventure time SF, is a MMORPG modelled on real life data, statistics and articl
 - In game mini games, reflect real/imaginary life hustles and mining opportunities for items
   
 ## Data and Rules
-- Dictionary of words
+- Associative dictionary of words and contexts
 - Rules for generation
 - Objects - types, data types
 - Scene generation (scenery assets)
