@@ -2,9 +2,9 @@
 Adventure time SF, is a MMORPG modelled on the real life experiences and data of living in modern day San Francisco.
 
 ## AI
-  NLP - Process real articles for contextual meaning and obsfuscate and transform to generate random quests, storylines and characters
-  Image recognition - Take GEO-spatial data and images and identify objects and generate assets, and placement
-  Data - Analyze present (realtime) GEO-spatial data and heat maps to shape distribution of objects and NPCs in game.
+ - NLP - Process real articles for contextual meaning and obsfuscate and transform to generate random quests, storylines and characters
+ - Image recognition - Take GEO-spatial data and images and identify objects and generate assets, and placement
+ - Data - Analyze present (realtime) GEO-spatial data and heat maps to shape distribution of objects and NPCs in game.
 
 ## Graphics
 2D 8-bit style graphics, minor scrolling and fixed screens.
