@@ -3,11 +3,11 @@ Adventure time SF, is a MMORPG modelled on real life data, statistics and articl
 
 ## AI
 - NLP - Process real articles for contextual meaning and obsfuscate and transform to generate random quests, storylines and characters
-- Image recognition - Take GEO-spatial data and images and identify objects and generate assets, and placement
-- Data - Analyze present (realtime) GEO-spatial data and heat maps to shape distribution of objects and NPCs in game.
+- Image recognition - Take GEO-spatial data and GEO-tagged images and identify objects and generate assets, and placement
+- AI Models - parameters, types for different AI processing for game
 
 ## Graphics
-- 2D 8-bit style graphics, minor scrolling and fixed screens.
+- 2D Omni-scroller with overhead views
 
 ## Map
 - Hand drawn map indicating real world places, quests, markers, and historical data
@@ -38,11 +38,13 @@ Adventure time SF, is a MMORPG modelled on real life data, statistics and articl
 - Crafting
   
 ## Mini-games
-- In game mini games, reflect real life hustles and mining opportunities for items
+- In game mini games, reflect real/imaginary life hustles and mining opportunities for items
   
 ## Data and Rules
 - Dictionary of words
 - Rules for generation
 - Objects - types, data types
 - Scene generation (scenery assets)
-  
+- User created
+- AI generated
+- Transformed data and overlaps
