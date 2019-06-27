@@ -1,5 +1,5 @@
 # AtSF
-Adventure time SF, is a MMORPG modelled on real life data, statistics and articles.
+Adventure time SF, is a MMORPG modelled on real life data, statistics and articles.  Combining with user contributed assets and ratings systems to help solidify the mold of the game as it is played/created in realtime.
 
 ## AI
 - NLP - Process real articles for contextual meaning and obsfuscate and transform to generate random quests, storylines and characters
